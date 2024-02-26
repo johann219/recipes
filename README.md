@@ -2,6 +2,6 @@
 
 Made by **Komarov Ivan**
 
-Student of [HTML ACADEMY](https://htmlacademy.ru/)
+Student of [HTML Academy](https://htmlacademy.ru/)
 
-Free learner on [THE ODIN PROJECT](https://www.theodinproject.com/)
+Free learner on [The Odin Project](https://www.theodinproject.com/)
