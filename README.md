@@ -1,7 +1,7 @@
 # Recipe Site for Odin Project
 
-MADE BY KOMAROV IVAN
+Made by **Komarov Ivan**
 
-STUDENT OF [HTML ACADEMY](https://htmlacademy.ru/)
+Student of [HTML ACADEMY](https://htmlacademy.ru/)
 
-FREE LEARNER ON [THE ODIN PROJECT](https://www.theodinproject.com/)
+Free learner on [THE ODIN PROJECT](https://www.theodinproject.com/)
